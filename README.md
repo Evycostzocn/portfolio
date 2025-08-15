@@ -6,7 +6,7 @@ Sou a Evelyn, apaixonada por tecnologia, programação, jogos e filosofia!
 Atualmente estudando para me tornar uma desenvolvedora de software.
 
 - 💻 Foco em: Programação, Lógica e Desenvolvimento Web.
-- 🎯 Aprendendo: CS50, Inglês e ADS (Análise e desenvolvimento de Sistemas).
+- 🎯 Aprendendo: CS50, Inglês e Engenharia de Software.
 
 ## ✨ Contato
 - Email: (profissionalevelyncosta@gmail.com)
